@@ -9,7 +9,6 @@ import './App.css';
 import './Sidebar.css';
 import './Main.css';
 
-
 function App() {
   const [ devs, setDevs ] = useState([]);
 
